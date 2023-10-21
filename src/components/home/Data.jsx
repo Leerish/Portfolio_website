@@ -8,7 +8,7 @@ const Data = () => {
             Leerish
             </h1>
             <h3 className="home__subtitle">Front-end Web Developer</h3>
-            <p className="home__description">I'm a Microsoft Learn Student Ambassador turning code into creativity, with a dash of frontend flair and a love for all things automotive..</p>
+            <p className="home__description">I'm a Microsoft Learn Student Ambassador turning creativity into code, with a dash of frontend flair and a love for all things automotive..</p>
             <br></br> 
             <a href="https://www.linkedin.com/in/leerish-arvind" target="__blank" rel="norefferer" className="button button--flex">
             Say Hello
