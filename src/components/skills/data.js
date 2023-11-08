@@ -1,6 +1,6 @@
 export const skills = [
     {
-      title: "Frontend",
+      title: "Frontend Development",
       skills: [
         {
           id:1,
@@ -42,7 +42,7 @@ export const skills = [
     },
     {
       
-      title: "Backend",
+      title: "Backend Development",
       skills: [
         {
           id:7,
@@ -86,7 +86,7 @@ export const skills = [
     },
     
     {
-      title: "Others",
+      title: "Supportive Tools",
       skills: [
         {
           name: "Git",

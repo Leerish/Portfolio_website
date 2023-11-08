@@ -15,7 +15,7 @@ export const projectsData =  [
       imgUrl: projImg1,
       link:"https://ecommerce-web-ivory.vercel.app/shop",
       githubUrl:"https://github.com/Leerish/Ecommerce_Web",
-      cat:"Web"
+      content: "Full Stack App made using ReactJS, Firebase and Stripe",
     },
     {
         id:2,
@@ -24,7 +24,7 @@ export const projectsData =  [
       imgUrl: projImg2,
       link:"https://patient-management-cli.vercel.app/",
       githubUrl:"https://github.com/Leerish/Patient_Management_cli",
-      cat:"Web"
+      content: "Clinic Management System made using HTML ,CSS , Js , MySQL",
     },
     {
         id:3,
@@ -33,7 +33,7 @@ export const projectsData =  [
       imgUrl: projImg4,
       link:"https://qr-attendance-based-system-emmanuelallanmj.vercel.app/",
       githubUrl:"https://github.com/Leerish/QR-Attendance-Based-System",
-      cat:"Web"
+      content: "Attendance system for clubs and organizations made using NextJS",
     },
     {
         id:4,
@@ -41,7 +41,7 @@ export const projectsData =  [
         description:"Nike Air Max Design made using Figma",
         imgUrl:projImg5,
         link:"https://www.figma.com/file/8aR3MxyAUuL4jVrZ0dr2az/Nike-Air-MAx?type=design&mode=design&t=SolFDkfjj15OqCbg-1",
-        cat:"UI Design"
+        content: "Nike Air Max Design made using Figma",
     },
     {
         id:5,
@@ -49,7 +49,7 @@ export const projectsData =  [
         description:"Console Design made using Figma",
         imgUrl:projImg6,
         link:"https://www.figma.com/file/gVuxCC7nL7Fmug9KYfoEBn/Console?type=design&mode=design&t=SolFDkfjj15OqCbg-1",
-        cat:"UI Design"
+        content:"Console Design made using Figma",
 
     }
 
